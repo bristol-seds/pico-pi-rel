@@ -1,11 +1,8 @@
-Where files originate outside of this project (such as those from the
-Atmel ASF) they may be license with a modified 3-clause BSD license or
-other. In any case the file headers take precidence.
+Unless otherwise specified in an individual file header, this project
+is under a [MIT License](http://opensource.org/licenses/MIT) as
+follows:
 
-Everything else is under a
-[MIT License](http://opensource.org/licenses/MIT) as follows:
-
-Copyright (C) 2014, 2015
+Copyright (C) 2016
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
