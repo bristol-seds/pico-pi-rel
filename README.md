@@ -10,11 +10,11 @@ to return live images.
 This design is optimised for weight-constrained payloads that use
 solar panels for power. If you're new to HAB or using a Latex weather
 balloon, then check out the awesome
-[Pi in the Sky](http://www.pi-in-the-sky.com) project!
+[Pi in the Sky](http://www.pi-in-the-sky.com) project instead!
 
 # Hardware
 
-[README.md](hardware/README.md)
+[README.md](hw/README.md)
 
 # License
 
