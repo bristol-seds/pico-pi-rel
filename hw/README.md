@@ -1,6 +1,8 @@
 # Hardware for pico-pi
 
-The folder contains the schematic files for the pico-pi header board. This provides us with the all the additional hardware functionality we need for a balloon tracker.
+The folder contains the schematic files for the pico-pi header
+board. This provides us with the all the additional hardware
+functionality we need for a balloon tracker.
 
 * RFM95W LoRa Radio
 * u-Blox MAX-M8Q GPS
@@ -9,8 +11,11 @@ The folder contains the schematic files for the pico-pi header board. This provi
 * optional ADXL345 accelerometer
 
 _[Schematics](pico-pi.sch.pdf)_
+
 _[Board Drawings](pico-pi.kicad_pcb.pdf)_
+
 _[3D Rendering](pico-pi.kicad_pcb.png)_
+
 _[Gerbers](gerbers/)_
 
 # Design Features
