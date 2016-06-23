@@ -18,6 +18,9 @@ _[3D Rendering](pico-pi.kicad_pcb.png)_
 
 _[Gerbers](gerbers/)_
 
+![Assembled pico-pi header board](photos/board_only_top.jpg
+ "Assembled pico-pi header board")
+
 # Design Features
 
 ## GPS Amplifier + Antenna
@@ -52,7 +55,7 @@ supplied by their own 3.3V LDO to reduce the load on the pi zero buck.
 
 ## ADXL345
 
-Accelerometer date might be useful, in particular it will give us
+Accelerometer data might be useful, in particular it will give us
 pitch when taking photos. Could also be processed to quantify 'turbulence'.
 
 The
