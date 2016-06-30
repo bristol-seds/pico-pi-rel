@@ -16,6 +16,21 @@ balloon, then check out the awesome
 
 [README.md](hw/README.md)
 
+# Mass Budget
+
+| Part | Mass |
+| ---  | --- |
+| Raspberry Pi Zero V1.3 | 9g |
+| Raspberry Pi Camera | 3.5g |
+| [5F Supercap](http://www.farnell.com/datasheets/1640988.pdf) | 7g |
+| Solar panels to supply 400mA @ 4.8V | 15.2g |
+| [pico-pi hardware](hardware/) | 8g |
+| Thermal insulation | 3g |
+| Wire for antennas | 3g |
+
+Current Total: `48.7g`
+Target: `50g`
+
 # License
 
 [MIT](LICENSE.md)
