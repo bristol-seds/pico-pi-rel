@@ -4,10 +4,11 @@ The folder contains the schematic files for the pico-pi header
 board. This provides us with the all the additional hardware
 functionality we need for a balloon tracker.
 
-* RFM95W LoRa Radio
+* 868MHz RFM96W LoRa Radio
 * u-Blox MAX-M8Q GPS
 * 144MHz and 434MHz Radios
 * Microcontroller to act as watchdog
+* Input diodes for solar panels
 * optional ADXL345 accelerometer
 
 _[Schematics](pico-pi.sch.pdf)_
